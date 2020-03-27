@@ -34,7 +34,7 @@ skinparam Arrow {
 
 skinparam rectangle<<boundary>> {
     Shadowing false
-    StereotypeFontSize 0
+    ' StereotypeFontSize 0
     FontColor #444444
     BorderColor #444444
     BorderStyle dashed
